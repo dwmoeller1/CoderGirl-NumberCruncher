@@ -8,7 +8,7 @@ namespace NumberCruncher
         {
             //Create a list of ints 
             //Call SumOfEvenNumbers in NumberUtility and pass this list in
-            //Pring out the result
+            //Print out the result
             Console.ReadLine();
         }
     }
